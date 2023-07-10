@@ -1,0 +1,90 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+/* header section  */
+/* header background  image style  */
+header{
+  background-image: url('../images/banner/banner1.png');
+  height: 100vh;
+  
+}
+/* header div style section  */
+.header-sectionh{
+ position: absolute; 
+  right: 0px;
+  width: 300px;
+  margin: 216px 230px 216px 845px;
+  padding: 20px;
+  
+  
+}
+.header-h{
+  color:  #151414;
+
+font-family: Work Sans;
+font-size: 45px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+margin: 0px 0px 20px 0;
+}
+.header-details{
+  color:  #444343;
+
+font-family: Work Sans;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 26px;
+margin: 0px 0px 20px 0;
+}
+/* div primary  button section  */
+.primary{
+  background-color:#FD6E0A ;
+  border-radius: 5px;
+  border: 0;
+  color: white;
+  font-size: 20px;
+  font-weight: 700;
+  padding: 18px 35px ;
+
+}
+/* main section woman fail */
+.section1{
+  display: flex;
+  justify-content: space-between;
+  margin-top: 20px;
+  background-color: rgb(243, 211, 168);
+}
+/* woman image style  */
+.image-of-woman{
+  margin: 100px 0px 0px 50px;
+}
+
+
+/* woman total div text style  */
+.woman-text-image {
+  position: absolute; 
+  right: 0px;
+  width: 300px;
+  margin: 216px 230px 216px 845px;
+  padding: 20px;
+}
+.woman-heading{
+  color:  #151414;
+font-family: Work Sans;
+font-size: 40px;
+font-weight: 700;
+margin-bottom: 20px;
+
+}
+.all{
+  color: var(--dark-02, #444343);
+font-family: Work Sans;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 26px;
+
+}
